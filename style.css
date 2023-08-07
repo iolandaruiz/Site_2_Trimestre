@@ -1,0 +1,24 @@
+@import url("styles/header.css");
+@import url("styles/rodapé.css");
+@import url("styles/texto.css");
+
+:root{
+    --cor-de-fundo: #b700ff;
+    --preto: #000000;
+    --branco: #f5f5f5;
+    --fonteprincipal:"Poppins";
+}
+
+body{
+    background-color: #b700ff;
+font-family: var(--fonteprincipal);
+    font-size: 16px;
+    font-weight: 300; 
+}
+
+.body{
+
+    font-family: var(--fonteprincipal);
+    font-size: 16px;
+    font-weight: 300; 
+}
